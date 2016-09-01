@@ -1,1 +1,3 @@
-# udacity_html5_game_development
+# Udacity html5 game development
+
+[Classroom](https://classroom.udacity.com/courses/cs255)
